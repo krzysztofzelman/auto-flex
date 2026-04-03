@@ -22,7 +22,7 @@ export default function RootLayout({ children }) {
       <body className="min-h-full flex flex-col">
         {/* TU WKLEJAMY NAWIGACJĘ */}
         <nav style={{ 
-          padding: '20px', 
+          padding: '20px', S
           backgroundColor: '#f8f8f8', 
           borderBottom: '1px solid #ddd',
           display: 'flex',
