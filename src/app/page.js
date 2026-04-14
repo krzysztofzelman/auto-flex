@@ -233,7 +233,6 @@ export default function Home() {
                     </button>
                   )}
                 </div>{" "}
-                // ← TO ZOSTAJE
               </div>
             ))}
           </div>
